@@ -48,7 +48,7 @@ Tackles real-world data imperfections to ensure data quality and model readiness
 
 3: Feature Engineering: Feature scaling, normalization, categorical encoding (One-Hot, Label Encoding), and outlier detection.
 
-Module 4: Industry Best Practices & Workflow
+### Module 4: Industry Best Practices & Workflow
 
 Adheres to professional engineering, reproducibility, and ethical standards in data science.
 
